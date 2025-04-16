@@ -431,8 +431,8 @@ class StrictImageProcessor(ImageProcessor):
 def main():
     """示例用法"""
     # 配置参数
-    app_id = "f425d18c-5b34-4fa0-8ea7-17d790eeff9d"
-    authorization = "Bearer bce-v3/ALTAK-dZWllsSnzM6CCATBoSoLb/579a634ae3f5d6099d30e345d5eabe307f7761f3"
+    app_id = ""
+    authorization = ""
     
     # 创建处理器实例 - 使用默认参数
     # processor = ImageProcessor(app_id, authorization)

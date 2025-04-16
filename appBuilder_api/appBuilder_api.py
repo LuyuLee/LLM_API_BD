@@ -277,9 +277,9 @@ def main():
     #app_id = "92189580-c467-4d66-9dc0-2fa9c94e3dc4"
     app_id = "e49c8a76-deb6-4e1e-834f-7ff4b5c0d465"
     app_id = "f1758d00-62f6-466c-9e10-b19c91e4b254"
-    authorization = "Bearer bce-v3/ALTAK-Uxh9C9CQQwGBW1ZWpJDZT/49bc342e5b0d42c3f82a59d802fb350628c25deb"
+    authorization = ""
     #file_path = '/Users/liluyu01/llm/wx/image/358d0f232cd2af6372372caae9a78892_image3+.png'
-    file_path = '/Users/liluyu01/llm/黑产agent/截图工具/hbaxc_screenshot.png'
+    file_path = ''
     file_id = None
 
     try:
